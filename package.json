@@ -1,10 +1,10 @@
 {
   "name": "lazy-motion",
   "main": "./lib/main",
-  "version": "0.6.0",
-  "description": "[Deprecated] Rapid cursor positioning with fuzzy search",
+  "version": "0.7.0",
+  "description": "Rapid cursor positioning with fuzzy search",
   "keywords": [],
-  "repository": "https://github.com/t9md/atom-lazy-motion",
+  "repository": "https://github.com/jrajav/atom-lazy-motion",
   "license": "MIT",
   "engines": {
     "atom": "^1.13.0"

@@ -1,8 +1,3 @@
-# :warning: [Deprecated] Don't use.
-
-- Why? Because I no longer use this package in daily editing.
-- It's difficult to have motivation to maintain package I don't use.
-
 # lazy-motion
 
 Rapid cursor positioning with **fuzzy**, **lazy** search.
@@ -42,16 +37,16 @@ Like the example above you can reach target position with very lazy and fuzzy ke
 
 Until now I released [vim-smalls](https://github.com/t9md/vim-smalls/blob/master/README-JP.md) and its [Atom port](https://github.com/t9md/atom-smalls).  
 
-And also hacked [jumpy](https://github.com/t9md/jumpy) and [vim-easymotion](https://github.com/t9md/vim-easymotion) as exercise to create  smalls.  
+And also hacked [jumpy](https://github.com/t9md/jumpy) and [vim-easymotion](https://github.com/t9md/vim-easymotion) as exercise to create smalls.  
 
 But as for me this *label jump* system not work, I couldn't adapt to it.  
 
 The reason is simple.  
 
-The *label jump* constrains me to enter label precisely which result in my concentration(or zone or flow) lost.  
+The *label jump* constrains me to enter label precisely which result in my concentration (or zone or flow) lost.  
 
 Of course this *label jump* packages let me reach target position with minimum key typing.  
-But in my opinion, its only good for demonstration.
+But in my opinion, it's only good for demonstration.
 
 In real world coding, the **brain context switch** the *label jump* enforces is **too expensive** to use on a daily basis.  
 
@@ -174,3 +169,7 @@ See [Scoped Settings, Scopes and Scope Descriptors](https://atom.io/docs/latest/
   "lazy-motion":
     wordRegExp: 'xxxx'
 ```
+
+# Credits
+
+* This package was originally created by @t9md.

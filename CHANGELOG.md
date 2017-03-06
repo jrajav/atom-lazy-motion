@@ -1,3 +1,6 @@
+## 0.7.0 Changed ownership
+- Forked and re-released by @jrajav - no longer deprecated.
+
 ## 0.6.0 Deprecated
 - Add `[Deprecated]` on package description and README.
 
